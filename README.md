@@ -10,6 +10,6 @@ Jogo desenvolvido em React-Native para fins de estudos!
 
 ## Imagens do projeto
 <h1 align="center">
-    <img alt="jogo" title="#jogo" src=""  /><br>
+    <img alt="AndroidIOS" title="#AndroidIOS" src="https://github.com/carloscazelattojr/jogo-controle-bolinha-react-native/blob/main/assets/prints.jpg"  /><br>
 </h1>
 <br>
